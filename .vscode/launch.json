@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FlywaytravelsApplication<api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.flywaytravels.FlywaytravelsApplication",
+            "projectName": "api",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
